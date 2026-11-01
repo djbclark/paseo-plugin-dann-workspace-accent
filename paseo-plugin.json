@@ -1,0 +1,9 @@
+{
+  "id": "dann-workspace-accent",
+  "name": "Dann — workspace accent",
+  "description": "Tints our techno-euphora workspace with an amber '◇ Dann' label.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.12.0"
+  }
+}
